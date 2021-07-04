@@ -8,6 +8,7 @@ packages(jar, ear,war) for java based projects.
 mvn clean package
 ```
 
+
 ## Create Docker Image
 Docker is a continerization tool.Using docker we can deploy our applications as 
 
